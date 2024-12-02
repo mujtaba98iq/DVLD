@@ -1,0 +1,1484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld2\\main form\\frmmainchosesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:main form\\frmmainchosesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\main form\\frmmainchosesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:main form\\frmmainchosesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehiclereturns\\frmaddvehiclereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehiclereturns\\frmaddvehiclereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\frmmainforcarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\frmmainforcarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\controls\\ctrlvehilescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\controls\\ctrlvehilescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmlistreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmlistreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmlistreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmlistreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehiclereturns\\frmaddvehiclereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehiclereturns\\frmaddvehiclereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\frmlistmaintenancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\frmlistmaintenancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\controls\\ctrlvehilescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\controls\\ctrlvehilescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmaddreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmaddreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmaddreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmaddreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\frmmainforcarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\frmmainforcarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\controls\\ctrlreservationvehiclecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\controls\\ctrlreservationvehiclecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\controls\\ctrlreservationvehiclecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\controls\\ctrlreservationvehiclecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmlistvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmlistvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmaddupdatevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmaddupdatevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmaddupdatevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmaddupdatevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clscarvehiclesdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmshowvehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmshowvehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmlistvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmlistvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmshowvehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmshowvehicledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\controls\\ctrlvehilescarddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\controls\\ctrlvehilescarddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\frmlistcusomersrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\frmlistcusomersrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\frmlistcusomersrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\frmlistcusomersrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\frmlistmaintenancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\frmlistmaintenancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmfrmlistreservationrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmfrmlistreservationrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmfrmlistreservationrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmfrmlistreservationrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmshowreservationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmshowreservationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\frmshowmaintenancedetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\frmshowmaintenancedetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\frmshowmaintenancedetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\frmshowmaintenancedetals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clscarmaintenancedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\controls\\ctrlmaintenanceinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\controls\\ctrlmaintenanceinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\maintenance\\controls\\ctrlmaintenanceinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\maintenance\\controls\\ctrlmaintenanceinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\controls\\ctrlcustomercardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\controls\\ctrlcustomercardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\customers\\controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\customers\\controls\\ctrlcustomercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\controls\\ctrlpersoncardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\controls\\ctrlpersoncardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\controls\\ctrlpersoncardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\controls\\ctrlpersoncardwithfiltter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clspeopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clscarreturendataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehicles\\frmlistvehiclesrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehicles\\frmlistvehiclesrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehiclereturns\\frmlistvehiclereturnsrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehiclereturns\\frmlistvehiclereturnsrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\globalform\\frmwaitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\globalform\\frmwaitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\vehiclereturns\\frmlistvehiclereturnsrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\vehiclereturns\\frmlistvehiclereturnsrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\controls\\ctrlpersoncard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\controls\\ctrlpersoncard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\licenses\\locallicenses\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\licenses\\locallicenses\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\licenses\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\licenses\\locallicenses\\controls\\ctrldriverlicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63993501-3FAC-40AE-B75E-D18316AACBFE}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_buisness\\clsdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\globalform\\frmwaitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\globalform\\frmwaitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\reservations\\frmaddreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\reservations\\frmaddreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\carrentalallfiles\\globalform\\frmwaitform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:carrentalallfiles\\globalform\\frmwaitform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63993501-3FAC-40AE-B75E-D18316AACBFE}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_buisness\\clstestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\tests\\controls\\crlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\tests\\controls\\crlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clslocaldrivinglicenseapplicationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\A\\clsCopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\B\\clsCopyDataAccessLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A235CD1-782A-4F06-8AC5-C32092E73CB8}|DVLD2.csproj|solutionrelative:dvldallfiles\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clscarmakedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38930E-53B0-43C3-A2E6-FEF5873705D1}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\mujta\\source\\my_real_projects\\dvld2fullfiles\\dvld_dataaccess\\clscarmodeldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\dvldallfiles\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dvldallfiles\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DVLDAllFiles\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMainChoseSystem.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Main Form\\frmMainChoseSystem.cs",
+              "RelativeDocumentMoniker": "Main Form\\frmMainChoseSystem.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Main Form\\frmMainChoseSystem.cs",
+              "RelativeToolTip": "Main Form\\frmMainChoseSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:37:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMainForCarRental.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\frmMainForCarRental.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\frmMainForCarRental.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\frmMainForCarRental.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\frmMainForCarRental.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:03:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:37:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainChoseSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Main Form\\frmMainChoseSystem.cs",
+              "RelativeDocumentMoniker": "Main Form\\frmMainChoseSystem.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Main Form\\frmMainChoseSystem.cs [Design]",
+              "RelativeToolTip": "Main Form\\frmMainChoseSystem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:39:53.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ctrlVehilesCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:06:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:00:02.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddVehicleReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:53:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ctrlVehilesCard.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCard.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswHQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:19:04.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAddVehicleReturn.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\VehicleReturns\\frmAddVehicleReturn.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAD4v0cAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:16:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmListMaintenanceRecords.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:51:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmListReservation.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:17:04.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmListReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmListReservation.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmListReservation.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmListReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:36:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlReservationVehicleCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:40:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAddReservation.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:04:18.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAddReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmAddReservation.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmAddReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:54:37.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMainForCarRental.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\frmMainForCarRental.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\frmMainForCarRental.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\frmMainForCarRental.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\frmMainForCarRental.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:39:23.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmListVehicles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehicles.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmListVehicles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:06:19.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ctrlReservationVehicleCard.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\Controls\\ctrlReservationVehicleCard.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:47:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddUpdateVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:45:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsCarVehiclesDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarVehiclesDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarVehiclesDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarVehiclesDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarVehiclesDataAccessLayer.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAwD0BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:06:56.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmAddUpdateVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmAddUpdateVehicle.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA0wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:13:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmShowVehicleDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:22:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmListVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmListVehicles.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:11:01.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmShowVehicleDetails.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmShowVehicleDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:23:44.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ctrlVehilesCardDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCardDetails.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCardDetails.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCardDetails.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\Controls\\ctrlVehilesCardDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:22:23.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmListCusomersRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:09:27.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmListCusomersRecords.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\frmListCusomersRecords.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAEwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:13:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:09:26.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:08:10.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\frmMain.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmMain.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:36.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\frmMain.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmMain.cs",
+              "RelativeToolTip": "DVLDAllFiles\\frmMain.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwGsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:55:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmListMaintenanceRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\frmListMaintenanceRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:49:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmfrmListReservationRecords.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwLcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:59:06.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmfrmListReservationRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmfrmListReservationRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:59:06.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmShowReservationDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmShowReservationDetails.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmShowReservationDetails.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmShowReservationDetails.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmShowReservationDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:29:49.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmShowMaintenanceDetals.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:17:16.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsCarMaintenanceDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarMaintenanceDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarMaintenanceDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarMaintenanceDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarMaintenanceDataAccessLayer.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAADwv/8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:21:30.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmShowMaintenanceDetals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\frmShowMaintenanceDetals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:13:50.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ctrlMaintenanceInfoCard.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:54:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ctrlMaintenanceInfoCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Maintenance\\Controls\\ctrlMaintenanceInfoCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:10:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmAddUpdateCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:16:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmAddUpdateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\frmAddUpdateCustomer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:33:37.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ctrlCustomerCardWithFiltter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCardWithFiltter.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCardWithFiltter.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCardWithFiltter.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCardWithFiltter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:18:18.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ctrlCustomerCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:10:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ctrlCustomerCard.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Customers\\Controls\\ctrlCustomerCard.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:24:37.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ctrlPersonCardWithFiltter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:32:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ctrlPersonCardWithFiltter.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "RelativeToolTip": "DVLDAllFiles\\People\\Controls\\ctrlPersonCardWithFiltter.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAWwG0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:06:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:56:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsCarReturenDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarReturenDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarReturenDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarReturenDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarReturenDataAccessLayer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:50:43.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsPeopleData.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsPeopleData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPeopleData.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsPeopleData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPeopleData.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:52:21.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmListVehiclesRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehiclesRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Vehicles\\frmListVehiclesRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Vehicles\\frmListVehiclesRecords.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\Vehicles\\frmListVehiclesRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:06:59.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmListVehicleReturnsRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:32:47.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmWaitForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs [Design]",
+              "RelativeToolTip": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:10:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmListVehicleReturnsRecords.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\VehicleReturns\\frmListVehicleReturnsRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:34:04.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:59:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:56:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "DVLDAllFiles\\People\\frmAddUpdatePerson.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAASwPIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:26:19.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ctrlPersonCard2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCard2.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\Controls\\ctrlPersonCard2.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\Controls\\ctrlPersonCard2.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\People\\Controls\\ctrlPersonCard2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:55:59.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ctrlDriverLicenseInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:17:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmShowLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Licenses\\LocalLicenses\\frmShowLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\frmShowLicenseInfo.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Licenses\\LocalLicenses\\frmShowLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:02:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ctrlDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:02:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ctrlDriverLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Licenses\\Controls\\ctrlDriverLicenses.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Licenses\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:02:17.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:39:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ctrlDriverLicenseInfoWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Licenses\\LocalLicenses\\Controls\\ctrlDriverLicenseInfoWithFilter.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:16:53.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmListDrivers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Drivers\\frmListDrivers.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Drivers\\frmListDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:29:51.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmListDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Drivers\\frmListDrivers.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAH8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:49:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "clsDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_Buisness\\clsDrivers.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsDrivers.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_Buisness\\clsDrivers.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsDrivers.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwHMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:04:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmWaitForm.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:34:32.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAACwBAAAAAAAAAADwvzIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-04T20:45:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmWaitForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.Designer.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\GlobalForm\\frmWaitForm.Designer.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\GlobalForm\\frmWaitForm.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:46:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmAddReservation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.Designer.cs",
+              "RelativeDocumentMoniker": "CarRentalAllFiles\\Reservations\\frmAddReservation.Designer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\CarRentalAllFiles\\Reservations\\frmAddReservation.Designer.cs",
+              "RelativeToolTip": "CarRentalAllFiles\\Reservations\\frmAddReservation.Designer.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAiwOQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:46:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmListTestAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmListTestAppointments.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\frmListTestAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:30:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "crlScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAgwE8BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:30:45.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "crlScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\Controls\\crlScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:30:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmListTestAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\frmListTestAppointments.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwIoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:32:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmScheduleTest.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\frmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:33:26.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\frmScheduleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:33:23.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "clsTestAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_Buisness\\clsTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsTestAppointment.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_Buisness\\clsTestAppointment.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsTestAppointment.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwFkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:03:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "crlScheduledTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduledTest.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Tests\\Controls\\crlScheduledTest.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Tests\\Controls\\crlScheduledTest.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Tests\\Controls\\crlScheduledTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:30:29.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwLMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:02:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:01:59.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmListUsers.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAhwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:50:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:50:56.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsApplicationData.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsApplicationData.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwEgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:39:42.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "clsLocalDrivingLicenseApplicationsData.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationsData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationsData.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationsData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationsData.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:12:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmListPeople.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmListPeople.cs",
+              "RelativeToolTip": "DVLDAllFiles\\People\\frmListPeople.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:45:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmListPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\People\\frmListPeople.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\People\\frmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:39:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "DVLDAllFiles\\Users\\frmAddUpdateUser.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwGsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:43:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "clsCopyDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\B\\clsCopyDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\BusinessAndDataLayersGenerator-master (1)\\Test\\B\\clsCopyDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\B\\clsCopyDataAccessLayer.cs",
+              "RelativeToolTip": "..\\..\\BusinessAndDataLayersGenerator-master (1)\\Test\\B\\clsCopyDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "clsCopy.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\A\\clsCopy.cs",
+              "RelativeDocumentMoniker": "..\\..\\BusinessAndDataLayersGenerator-master (1)\\Test\\A\\clsCopy.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\BusinessAndDataLayersGenerator-master (1)\\Test\\A\\clsCopy.cs",
+              "RelativeToolTip": "..\\..\\BusinessAndDataLayersGenerator-master (1)\\Test\\A\\clsCopy.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:08:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmDashboard.cs",
+              "RelativeToolTip": "DVLDAllFiles\\frmDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:53:50.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "DVLDAllFiles\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD2\\DVLDAllFiles\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "DVLDAllFiles\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "clsCarMakeDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarMakeDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarMakeDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarMakeDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarMakeDataAccessLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:21:36.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsCarModelDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarModelDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarModelDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\mujta\\source\\My_Real_Projects\\DVLD2FullFiles\\DVLD_DataAccess\\clsCarModelDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarModelDataAccessLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:22:01.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
